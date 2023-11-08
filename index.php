@@ -48,6 +48,16 @@ include_once("koneksi.php")
                             Periksa
                         </a>
                     </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="index.php?page=RegistrasiUser">
+                            Register
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="index.php?page=loginUser">
+                            Login
+                        </a>
+                    </li>
                 </ul>
             </div>
         </div>
