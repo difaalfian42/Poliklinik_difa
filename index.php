@@ -49,13 +49,8 @@ include_once("koneksi.php")
                         </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="index.php?page=RegistrasiUser">
-                            Register
-                        </a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="index.php?page=loginUser">
-                            Login
+                        <a class="nav-link" href="index.php?page=obat">
+                            obat
                         </a>
                     </li>
                 </ul>
